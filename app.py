@@ -18,7 +18,7 @@ credentials = service_account.Credentials.from_service_account_info(
 
 service = build("searchconsole", "v1", credentials=credentials)
 
-site_url = "https://www.naukri.com"
+site_url = "https://www.naukrigulf.com"
 
 # -----------------------------
 # SIDEBAR FILTERS
